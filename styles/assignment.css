@@ -1,0 +1,249 @@
+/* Header section */
+.header {
+    background-position: center;
+    width: 1600px;
+    height: 808px;
+    background-image: url("../images/banner/banner1.png");
+    margin-bottom: 131px;
+
+}
+
+.header-title {
+    color: #151414;
+    width: 525px;
+    height: 228px;
+    font-weight: 700;
+    font-size: 65px;
+    text-align: right;
+    padding: 230px 200px 0px 845px;
+    margin-bottom: 24px;
+}
+
+.header-description {
+    width: 494px;
+    height: 78px;
+    text-align: right;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    padding: 0px 230px 0px 876px;
+    margin-bottom: 32px;
+}
+
+.btn {
+    margin-right: 230px;
+    margin-left: 1210px;
+    border-color: none;
+    background-color: orange;
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    padding: 21px 25px;
+
+}
+
+/* <!-- main section part --> */
+.add-a-section {
+    display: flex;
+    justify-content: space-between;
+    gap: 87px;
+    margin-right: 322px;
+    margin-left: 206px;
+    margin-bottom: 100px;
+}
+
+.add-sub-title {
+    width: 288px;
+    height: 94px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+
+.add-description{
+    width: 416px;
+height: 100px;
+font-weight: 400;
+font-size: 16px;
+color: #444343;
+}
+
+.adding-pic {
+    width: 500px;
+    height: 400px;
+
+}
+
+/* Failure in love section */
+
+.failure-in-love {
+    background-image: url("../images/person.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-left: 206px;
+    width: 569px;
+    height: 723.3px;
+}
+
+.failure-container {
+    width: 416px;
+    height: 400px;
+    text-align:left;
+    padding-left: 700px;
+    padding-top: 300px;
+    margin-right: 230px;
+
+}
+
+.failure-title {
+    width: 288px;
+    height:80px ;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-bottom: 0%;
+}
+.failure-description{
+    margin-top: 0%;
+    width: 416px;
+height: 100px;
+font-weight: 400;
+font-size: 16px;
+color: #444343;
+}
+
+
+/* My plan section */
+.my-plan-title {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.plan-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 91px;
+    margin-left: 230px;
+    margin-right: 230px;
+    text-align: center;
+    margin-bottom: 130px;
+}
+
+.plan-title {
+    width: 214px;
+    height: 197px;
+}
+
+.plan-sub-title {
+
+    width: 270px;
+    height: 35px;
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+}
+
+.plan-description {
+
+    width: 177px;
+    height: 29px;
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+
+
+}
+/* last section of main body */
+.last-body {
+    width: 1140px;
+    height: 300px;
+    background-image: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%),
+
+        url("../images/watch.png");
+
+    margin-left: 230px;
+    margin-right: 231px;
+    border-radius: 8px;
+    margin-bottom: 130px;
+}
+
+.last-title{
+    padding: 40px 617px 40px 60px;
+}
+.last-description {
+    width: 459px;
+    height: 94px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+    
+}
+
+.call {
+    width: 160px;
+    height: 50px;
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+
+/* Footer */
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    
+    gap: 50px;
+    width: 1600px;
+    height: 577px;
+    background-position: center;
+    background: #151414;
+    margin-right: 230px;
+    
+}
+.footer-title{
+    width: 485px;
+height: 317px;
+padding: 130px 230px;
+}
+h2{
+    width: 148px;
+    height: 53px;
+    font-weight: 700;
+font-size: 45px;
+color: #F8F8F8;
+}
+p{
+    font-weight: 400;
+font-size: 16px;
+    color: #FFFFFF;  
+}
+.icons{
+    display: flex;
+    justify-content: space-between;
+    width: 175px;
+    height: 46px;
+   
+   
+}
+.subscribe-title{
+    width: 325px;
+height: 204px;
+}
+
+.subs-title {
+    width: 123px;
+height: 29px;
+font-weight: 600;
+font-size: 25px;
+color: #FFFFFF;
+margin-bottom: 30px;
+}
+.subscribe{
+    width: 120px;
+height: 50px;
+font-weight: 600;
+font-size: 20px;
+color: #F15B22;
+    margin-top: 10px;
+}
